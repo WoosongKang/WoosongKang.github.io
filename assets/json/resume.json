@@ -32,16 +32,7 @@
       "summary": "Participated in the development and control of a dual-arm robot, manipulator robot and a wheeled-bipedal robot as a full-time researcher",
       "highlights": ["Control"]
     }
-   
-   {
-      "name": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
-      "position": "Graduate Student Researcher(Advisor : Sehoon Oh)",
-      "url": "https://sites.google.com/view/motion-control-lab/home",
-      "startDate": "2021-03-02",
-      "endDate": "2021-08-20",
-      "summary": "Proposed new control algorithms for achieving high-speed running with estimated ground reaction forces",
-      "highlights": ["Locomotion Control"]
-    }    
+
   ],
   "volunteer": [
     {
