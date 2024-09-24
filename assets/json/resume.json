@@ -67,6 +67,57 @@
       "courses": [""]
     }    
   ],
+  "publications": [
+    {
+      "name": "Iterative Periodic Running Control through Swept Angle Adjustment with Modified SLIP Model",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2024-09-10",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10675435",
+      "summary": "This paper presents a periodic running control strategy based on a modified Spring-Loaded Inverted Pendulum (SLIP) model to achieve stable running at various velocities. This model simplifies the analytical representation of the stance phase and defines the required swept angle for maintaining periodic motion during the flight phase. Using this model, we develop a feedback control system that ensures the stability of QLSLIP-based periodic locomotion, even in the presence of external disturbances."
+    },
+    {
+      "name": "    Developing a Jumping Algorithm for Overcoming Obstacle in the Wheeled Bipedal Robot ",
+      "publisher": "Journal of the Korean Society of Manufacturing Technology Engineers ",
+      "releaseDate": "2023-12",
+      "url": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11674020&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=040000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true",
+      "summary": "Using the dynamics of the SLIP model, the take-off velocity and leg length trajectories needed to achieve the desired height were determined. The robot's kinematics were then controlled to mimic the SLIP model, allowing it to track position and velocity trajectories and jump to the desired height."
+    },
+    {
+      "name": "Development of Rotating Workspace Ground Contact Force Observer for Legged Robot",
+      "publisher": " 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10493545",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9636840",
+      "summary": "Two novel coordinate systems are introduced to describe the joint space motion and the workspace differently, and the ground contact force observer is designed in the novel coordinate systems."
+    },
+    {
+      "name": "Implementation of Integrated Dual SLIP Dynamics for Sagittal plane motion of Quadruped Robot",
+      "publisher": " International Conference on Control, Automation and Systems (ICCAS) ",
+      "releaseDate": "2020-10",
+      "url": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10493545",
+      "summary": "A novel control algorithm is proposed to achieveSLIP dynamics by preventing the legs’ asymmetry SLIP behavior. "
+    },    
+    {
+      "name": "Ripple Minimization for Harmonic-geared Series Elastic Actuator under Force Control",
+      "publisher": " 2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
+      "releaseDate": "2020-09-14",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9244303",
+      "summary": "Develops an accurate force control algorithm an reduce the effect of torque ripple for the Series Elastic Actuators (SEA). "
+    },
+    {
+      "name": "Ripple Minimization for Harmonic-geared Series Elastic Actuator under Force Control",
+      "publisher": " 2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
+      "releaseDate": "2020-09-14",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9244303",
+      "summary": "Develops an accurate force control algorithm an reduce the effect of torque ripple for the Series Elastic Actuators (SEA). "
+    },        
+   {
+      "name": "Transparent Torque Sensor-less Impedance Rendering for Low-cost Direct Drive Motor",
+            "publisher": " 2020 IEEE 16th International Workshop on Advanced Motion Control (AMC)",
+      "releaseDate": "2020-09-14",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9244441",
+      "summary": "proposes transparent sensor-less impedance control to improve impedance rendering performance for the low-cost DD motor. Torque ripple, the main problem, is measured and analyzed to develop the high-performance impedance controller. "
+    }        
+  ],  
   "awards": [
     {
       "title": "Full Scholarship",
@@ -126,29 +177,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+
   "skills": [
     {
       "name": "Physics",
