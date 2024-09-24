@@ -76,7 +76,7 @@
       "summary": "This paper presents a periodic running control strategy based on a modified Spring-Loaded Inverted Pendulum (SLIP) model to achieve stable running at various velocities. This model simplifies the analytical representation of the stance phase and defines the required swept angle for maintaining periodic motion during the flight phase. Using this model, we develop a feedback control system that ensures the stability of QLSLIP-based periodic locomotion, even in the presence of external disturbances."
     },
     {
-      "name": "    Developing a Jumping Algorithm for Overcoming Obstacle in the Wheeled Bipedal Robot ",
+      "name": "Developing a Jumping Algorithm for Overcoming Obstacle in the Wheeled Bipedal Robot",
       "publisher": "Journal of the Korean Society of Manufacturing Technology Engineers ",
       "releaseDate": "2023-12",
       "url": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11674020&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=040000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true",
@@ -85,7 +85,7 @@
     {
       "name": "Development of Rotating Workspace Ground Contact Force Observer for Legged Robot",
       "publisher": " 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
-      "releaseDate": "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10493545",
+      "releaseDate": "2021-09-27",
       "url": "https://ieeexplore.ieee.org/abstract/document/9636840",
       "summary": "Two novel coordinate systems are introduced to describe the joint space motion and the workspace differently, and the ground contact force observer is designed in the novel coordinate systems."
     },
