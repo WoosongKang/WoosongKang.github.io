@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Cellular Phon : +82-10-8411-0245</p>
+    <p>Cellular Phone : +82-10-8411-0245</p>
     <p>Mail : woosongkang96@gmail.com</p>
     <p>City : Daejeon, South Korea</p>
 
