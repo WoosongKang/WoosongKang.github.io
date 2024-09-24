@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hi Everyone, welcome to my website! My name is Woosong Kang.
 
 I am currently a researcher at the Korea Institute of Machinery & Materials (KIMM). In a few weeks, I will become the CEO of ROBOCON, a company providing algorithm solutions. 
 
