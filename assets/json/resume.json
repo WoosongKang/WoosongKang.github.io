@@ -1,37 +1,47 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Woosong Kang",
+    "label": "Robotics Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "woosongkang96@gmail.com",
+    "phone": "(+82) 10-8411-0245",
+    "url": "https://woosongkang.github.io",
+    "summary": "A Korean-born robotics engieer, particularly interested in legged robot locomotion",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Yuseongu",
+      "postalCode": "34103",
+      "city": "Daejeon",
+      "countryCode": "South Korea",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "Woosong Kang",
+        "url": "https://scholar.google.co.kr/citations?user=s8_YalsAAAAJ&hl"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Korea Institue of Machinery and Materials(KIMM)",
+      "position": "Full-time Researcher",
+      "url": "https://www.kimm.re.kr/eng",
+      "startDate": "2021-08-30",
+      "endDate": "2024-09-20",
+      "summary": "Participated in the development and control of a dual-arm robot, manipulator robot and a wheeled-bipedal robot as a full-time researcher",
+      "highlights": ["Control"]
     }
+   
+   {
+      "name": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
+      "position": "Graduate Student Researcher(Advisor : Sehoon Oh)",
+      "url": "https://sites.google.com/view/motion-control-lab/home",
+      "startDate": "2021-03-02",
+      "endDate": "2021-08-20",
+      "summary": "Proposed new control algorithms for achieving high-speed running with estimated ground reaction forces",
+      "highlights": ["Locomotion Control"]
+    }    
   ],
   "volunteer": [
     {
