@@ -115,7 +115,7 @@
     {
       "name": "Wheeled-Leg Robot Development and Locomtion Control",
       "summary": "Design Wheeled-leg robot with topology optimization and develop control algorithm for accurate jumping with maintaining stability",
-      "highlights": ["Wheeled-Leg Robot Locomotion", "Accurate Jumping"],
+      "highlights": ["Wheeled-leg robot locomotion", "Accurate jumping"],
       "startDate": "2023",
       "endDate": "current"
     },
@@ -125,7 +125,35 @@
       "highlights": ["Dual-arm robot", "Inverse kinematics control"],
       "startDate": "2023",
       "endDate": "2023"
-    }    
+    },
+    {
+      "name": "Quadrupedal Robot high-speed running locomotion algorithm",
+      "summary": "Developed hopping and gait pattern generation algorithms for a quadruped robot",
+      "highlights": ["Quadrupedal robot", "Running algorithm"],
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "name": "Development of High-Speed Running Multi-Legged Robot Using Back-Driveable Actuator System",
+      "summary": "Designed a quadruped robot platform with a waist actuator and enhanced force control performance algorithm for Series Elastic Actuators",
+      "highlights": ["Robot design", "Actuator control"],
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "name":":Developing a variable exercise machine with the Tension Control Module",
+      "summary": "Developed a force control algorithm capable of adjusting load in response to user intent",
+      "highlights": ["Force control", "Human robot interaction"],
+      "startDate": "2020",
+      "endDate": "2020"
+    },
+    {
+      "name": "Development of interworking modular exo-suit technology for strength support",
+      "summary": "Devised an auxiliary force control algorithm for enhancing the precision strength of SEA integrated into exosuits",
+      "highlights": ["Impedance Control", "Actuator Ripple control"],
+      "startDate": "2020",
+      "endDate": "2020"
+    }                                    
   ],    
   "awards": [
     {
