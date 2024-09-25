@@ -20,5 +20,3 @@ related_publications: true
 <div class="caption">
     Various tasks of Wheeleg-legged robot
 </div>
-
-{% endraw %}
