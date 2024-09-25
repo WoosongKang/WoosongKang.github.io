@@ -180,7 +180,7 @@
       "summary": "Won Best Topic Research Award in Undergraduate Group Research Program (received 10 teams among 58 prgrams).'"
     }
   ],
-  "certificates": [
+  "my certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -231,11 +231,23 @@
       "level": "High-intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "C/C++",
-        "ROS",
-        "Matlab",
-        "LabVIEW"
+        "Python, C/C++, ROS, Matalb, LabVIEW"
+      ]
+    },
+    {
+      "name": "Simulator",
+      "level": "High-intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Matlab/Simulink, Matlab/Simscape, Nvidia IssacGym, Gazebo, Raisim"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "High-intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linux, Git, SolidWorks"
       ]
     }
   ],
@@ -252,7 +264,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "my interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
