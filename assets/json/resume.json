@@ -237,28 +237,6 @@
         "Matlab",
         "LabVIEW"
       ]
-    },
-    {
-      "name": "Simulator",
-      "level": "High-intermediate",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Matlab/Simulink",
-        "Matlab/Simscape",
-        "Nvidia IssacGym",
-        "Gazebo",
-        "Raisim"
-      ]
-    },
-    {
-      "name": "Miscellaneous",
-      "level": "High-intermediate",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux",
-        "Git",
-        "SolidWorks"
-      ]
     }
   ],
 
