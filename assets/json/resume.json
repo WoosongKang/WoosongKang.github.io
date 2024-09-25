@@ -170,7 +170,7 @@
       "summary": "Won Best Topic Research Award in Undergraduate Group Research Program (received 10 teams among 58 prgrams).'"
     }
   ],
-  "certificates": [
+  "my certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -217,16 +217,37 @@
 
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming",
+      "level": "High-intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C/C++",
+        "ROS",
+        "Matlab",
+        "LabVIEW",
+      ]
+    },
+    {
+      "name": "Simulator",
+      "level": "High-intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Matlab/Simulink",
+        "Matlab/Simscape",
+        "Nvidia IssacGym",
+        "Gazebo",
+        "Raisim",
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "level": "High-intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linux",
+        "Git",
+        "SolidWorks",
       ]
     }
   ],
@@ -242,7 +263,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "my interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
