@@ -235,7 +235,7 @@
         "C/C++",
         "ROS",
         "Matlab",
-        "LabVIEW",
+        "LabVIEW"
       ]
     },
     {
@@ -247,7 +247,7 @@
         "Matlab/Simscape",
         "Nvidia IssacGym",
         "Gazebo",
-        "Raisim",
+        "Raisim"
       ]
     },
     {
@@ -257,10 +257,11 @@
       "keywords": [
         "Linux",
         "Git",
-        "SolidWorks",
+        "SolidWorks"
       ]
     }
   ],
+
   "languages": [
     {
       "language": "Korean",
