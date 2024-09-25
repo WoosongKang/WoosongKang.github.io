@@ -111,7 +111,7 @@
       "summary": "proposes transparent sensor-less impedance control to improve impedance rendering performance for the low-cost DD motor. Torque ripple, the main problem, is measured and analyzed to develop the high-performance impedance controller. "
     }        
   ],
-  "research projects": [
+  "projects": [
     {
       "name": "Wheeled-Leg Robot Development and Locomtion Control",
       "summary": "Design Wheeled-leg robot with topology optimization and develop control algorithm for accurate jumping with maintaining stability",
