@@ -110,7 +110,23 @@
       "url": "https://ieeexplore.ieee.org/abstract/document/9244441",
       "summary": "proposes transparent sensor-less impedance control to improve impedance rendering performance for the low-cost DD motor. Torque ripple, the main problem, is measured and analyzed to develop the high-performance impedance controller. "
     }        
-  ],  
+  ],
+  "research projects": [
+    {
+      "name": "Wheeled-Leg Robot Development and Locomtion Control",
+      "summary": "Design Wheeled-leg robot with topology optimization and develop control algorithm for accurate jumping with maintaining stability",
+      "highlights": ["Wheeled-Leg Robot Locomotion", "Accurate Jumping"],
+      "startDate": "2023",
+      "endDate": "current"
+    },
+    {
+      "name": "Dual Arm Robot Development and Control",
+      "summary": "Developed a Dual Arm Robot and implemented robot control to grasp cups and pour water by integrating grippers",
+      "highlights": ["Dual-arm robot", "Inverse kinematics control"],
+      "startDate": "2023",
+      "endDate": "2023"
+    }    
+  ],    
   "awards": [
     {
       "title": "Full Scholarship",
@@ -214,24 +230,20 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Sehoon Oh",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "He is an associate professor and the chair of the Department of Robotics Engineering, DGIST, Daegu, South Korea. He was my advisor during my master's program."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Dong Il Park",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "reference": "He is the chair of the Advanced Robotics Research Center at the Korea Institute of Machinery and Materials (KIMM). He is my advisor and has worked on many projects with me."
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+      "name": "Professor Yongsub Shin",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "He is an associate professor in the Department of Robotics Engineering at DGIST in Daegu, South Korea. He was my mentor during my undergraduate studies, and I am his teaching assistant in the master's program."
+    }    
+
   ]
 }
