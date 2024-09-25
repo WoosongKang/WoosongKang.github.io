@@ -151,7 +151,7 @@
       "endDate": "2021"
     },
     {
-      "name":":Developing a variable exercise machine with the Tension Control Module",
+      "name":"Developing a variable exercise machine with the Tension Control Module",
       "summary": "Developed a force control algorithm capable of adjusting load in response to user intent",
       "highlights": ["Force control", "Human robot interaction"],
       "startDate": "2020",
