@@ -59,13 +59,23 @@
       "institution": "Daegu Gyeongbuk Institue of Science and Technology(DGIST)",
       "location": "Daegu, South Korea",
       "url": "https://www.dgist.ac.kr/eng/index.do",
-      "area": "Conver",
+      "area": "Robotics, Artificial Intelligence",
       "studyType": "B.S in Engineering",
       "startDate": "2015",
       "endDate": "2019",
       "score": "3.34/4.30",
       "courses": [""]
-    }    
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "California, US",
+      "url": "https://www.berkeley.edu/",
+      "studyType": "Visiting Student",
+      "startDate": "2016-06",
+      "endDate": "2016-08",
+      "score": "3.34/4.30",
+      "courses": [""]
+    }        
   ],
   "publications": [
     {
