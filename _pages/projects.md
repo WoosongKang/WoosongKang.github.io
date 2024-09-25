@@ -1,8 +1,9 @@
 ---
 layout: page
-title: projects
+title: robots
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I would like to introduce the robots that I have developed and controlled throughout my career!
+
 nav: true
 nav_order: 3
 display_categories: [work, fun]
