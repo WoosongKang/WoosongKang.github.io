@@ -2,7 +2,7 @@
 layout: page
 title: Undergraduate Project
 description: Window that responds to changes in temperature, humidity, and fine dust
-img: assets/img/12.png
+img: assets/img/12.jpg
 importance: 3
 category: fun
 ---
