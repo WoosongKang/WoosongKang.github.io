@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "ROBICON",
+      "position": "Founder",
+      "startDate": "2024-10-01",
+      "endDate": "current",
+      "summary": "We are a company that develops and supplies control algorithm solutions tailored to the needs of various robots, providing everything from lower-level actuator control to higher-level task control.",
+      "highlights": ["Control Solution, Actuator to Robot"]
+    },
+
+    {
       "name": "Korea Institue of Machinery and Materials(KIMM)",
       "position": "Full-time Researcher",
       "url": "https://www.kimm.re.kr/eng",
