@@ -2,10 +2,10 @@
 layout: page
 title: Quadruped Robot
 description: Development and Control Quadruped Robot
-img: assets/img/quadruped.jpg
-importance: 2
+img: assets/img/quadruped.png
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 
@@ -21,5 +21,5 @@ giscus_comments: true
     </div>    
 </div>
 <div class="caption">
-    Various tasks of Wheeleg-legged robot
+    One leg to quadruped locomotion experiment
 </div>
